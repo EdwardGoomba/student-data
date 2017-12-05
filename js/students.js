@@ -6,8 +6,8 @@ var students = [
     points: 1219
   },
   {
-    name: 'Edward',
-    track: 'Full Stack JS',
+    name: 'Dave',
+    track: 'iOS Development',
     achievements: 12,
     points: 1219
 
@@ -34,7 +34,3 @@ var students = [
 
   }
 ];
-
-for (var key in students) {
-  console.log(students[key]);
-}
